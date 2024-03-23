@@ -17,9 +17,9 @@ Hotel List Page
 
 ![image](https://github.com/akki111singh/HotelFlow/assets/45921807/12f696c6-aa8e-4f77-9bfd-8cc570757d67)
 
-# Deeplinking: Deeplinking is added to hotel list page using expo linking: 
+#### Deeplinking: Deeplinking is added to hotel list page using expo linking: 
   exp://ip:/--/hotelslist/query will redirect to hotel list page
-# we have baseURL: ' http://localhost:3000/', in api.js
+#### we have baseURL: ' http://localhost:3000/', in api.js
 
 Logic:
 Date shall be validated Past dates should not be enabled UI-- Done 
